@@ -1,13 +1,17 @@
 # Custom Models
 
 1. Following is an example of a deep and wide network structure.
-   ![alt text](<dce8f7cd-430a-4ed3-a88f-ef3016de92d0image2 (1).png>)
+<p align="center">
+<img src="dce8f7cd-430a-4ed3-a88f-ef3016de92d0image2 (1).png">
+</p>
 
 - False
 - **_True(Answer)_**
 
 2. Consider the following code and check all that are true:
-   ![alt text](dce8f7cd-430a-4ed3-a88f-ef3016de92d0image1.png)
+<p align="center">
+<img src="dce8f7cd-430a-4ed3-a88f-ef3016de92d0image1.png">
+   </p>
 
 - The code is incomplete in the sense that you can only initialize and construct your model, you cannot perform training or inference.
 - **_The output layers cannot give more than 1 result each.(Answer)_**
@@ -30,7 +34,9 @@ How can you build dynamic networks where the architecture changes on the fly, or
 - You can have modular architectures
 
 5. Consider the following two images:
-   ![alt text](dce8f7cd-430a-4ed3-a88f-ef3016de92d0image4.png)
+<p align="center">
+   <img src="dce8f7cd-430a-4ed3-a88f-ef3016de92d0image4.png" width="400">
+</p>
 
 - You loop Residual Type 2 (Dense layers) because you cannot make a loop of Conv2D layers (Residual Type 1)
 - **_You make a loop of Residual Type 2 blocks because you want to reduce the depth of the network (making it less complex of an architecture)(Answer)_**
