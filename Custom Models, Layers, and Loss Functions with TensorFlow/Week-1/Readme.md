@@ -27,25 +27,25 @@
        return model
    ```
 
-   - **_False_**
+   - **_False_(Answer)**
    - True
 
 3. Only a single input layer can be defined for a functional model.
    - True
-   - **_False_**
+   - **_False_(Answer)**
 4. What are Branch Models ?
    - A model architecture where you can split the model into different paths, and cannot merge them later.
    - A model architecture with linear stack of layers.
-   - **_A model architecture with non-linear topology, shared layers, and even multiple inputs or outputs._**
+   - **_A model architecture with non-linear topology, shared layers, and even multiple inputs or outputs._(Answer)**
    - A model architecture with a single recurring path.
 5. One of the advantages of the Functional API is the option to build branched models with multiple outputs, where different loss functions can be implemented for each output.
 
    - False
-   - **_True_**
+   - **_True_(Answer)**
 
 6. A siamese network architecture has:
    - 1 input, 2 outputs
-   - **_2 inputs, 1 output_**
+   - **_2 inputs, 1 output_(Answer)**
    - 1 input, 1 output
    - 2 inputs, 2 outputs
 7. What is the output of each twin network inside a Siamese Network architecture?
@@ -53,10 +53,10 @@
    - Binary value, 1 or 0
    - A softmax probability
    - A number
-   - **_An output vector_**
+   - **_An output vector_(Answer)**
 
 8. What is the purpose of using a custom contrastive loss function for a siamese model?
    - A custom built function is required because it is not possible to use a built-in loss function with the Lambda layer.
    - A custom loss function is required for using the RMSprop() optimizer.
-   - **_It is a custom built function that can calculate the loss on similarity comparison between two items._**
+   - **_It is a custom built function that can calculate the loss on similarity comparison between two items._(Answer)**
    - As a custom built function, it provides better results and it is faster to run.
