@@ -35,11 +35,12 @@
 <p align="center">
 <img src="fa73cc3a-f2c7-4faf-aa77-b4ba48807232image1.png">
    </p>
-    Which of the following lines of code performs optimization (should appear where you see the comment “# code for optimizing” ?
-    * optimizer.apply_gradients(gradients, model.trainable_weights)
-    * optimizer = apply_gradients(zip(gradients, model.trainable_weights))
-    * ***optimizer.apply_gradients(zip(gradients, model.trainable_weights))***
-    * optimizer = apply_gradients(gradients, model.trainable_weights)
+
+Which of the following lines of code performs optimization (should appear where you see the comment “# code for optimizing” ?
+* optimizer.apply_gradients(gradients, model.trainable_weights)
+* optimizer = apply_gradients(zip(gradients, model.trainable_weights))
+* ***optimizer.apply_gradients(zip(gradients, model.trainable_weights))***
+* optimizer = apply_gradients(gradients, model.trainable_weights)
 
 6. Metrics in Keras can only be called as functions and not instantiated as Classes.
    - True
