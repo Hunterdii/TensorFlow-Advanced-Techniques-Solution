@@ -17,8 +17,8 @@
    - Red (# 3)
 5. One of the differences between R-CNN and Fast R-CNN is that, Fast R-CNN proposes regions of interest to the input image (generates), whereas in R-CNN regions of interest are expected to be an input
    (as opposed to generating them) to the model.
-   _ ***False(Answer)***
-   _ True
+   - **False(Answer)**
+   - True
 6. Consider the following code and check all that are true.
    - Setting use_normalized_coordinates=True indicates that your bounding box coordinates are not normalized, so you want them to be normalized.
    - **_label_id_offsetis an adjustment in case the ‘detection classes’ starting index and actual starting index have an offset between them.(Answer)_**
