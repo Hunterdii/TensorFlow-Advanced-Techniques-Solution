@@ -28,8 +28,7 @@
    - **_False(Answer)_**
    - True
 8. Which of the following is the correct syntax to print a list of your trainable variables in a model ?
-   - **_`for varName in myModel.trainable_variables:    
-print(varName.name)`(Answer)_**
+   - **_`for varName in myModel.trainable_variables:print(varName.name)`(Answer)_**
    - `for varName in myModel.trainables:
 print(varName.name)`
    - `for varName in myModel.trainableVariables:
