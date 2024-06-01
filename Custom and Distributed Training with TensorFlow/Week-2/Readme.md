@@ -37,10 +37,11 @@
    </p>
 
 Which of the following lines of code performs optimization (should appear where you see the comment “# code for optimizing” ?
-* optimizer.apply_gradients(gradients, model.trainable_weights)
-* optimizer = apply_gradients(zip(gradients, model.trainable_weights))
-* ***optimizer.apply_gradients(zip(gradients, model.trainable_weights))***
-* optimizer = apply_gradients(gradients, model.trainable_weights)
+
+- optimizer.apply_gradients(gradients, model.trainable_weights)
+- optimizer = apply_gradients(zip(gradients, model.trainable_weights))
+- **_optimizer.apply_gradients(zip(gradients, model.trainable_weights))(Answer)_**
+- optimizer = apply_gradients(gradients, model.trainable_weights)
 
 6. Metrics in Keras can only be called as functions and not instantiated as Classes.
    - True

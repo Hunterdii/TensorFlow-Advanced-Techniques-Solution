@@ -17,7 +17,7 @@
 
    - The number represents the total number of filters used in the final pooling layer in the architecture to make predictions.
 
-   - **_The number represents the factor by which the final pooling layer in the architecture up-samples the image to make predictions._**
+   - **_The number represents the factor by which the final pooling layer in the architecture up-samples the image to make predictions.(Answer)_**
    - The number represents the total number of convolutional layers used in the final pooling layer in the architecture to make predictions.
    - The number represents the total number of pooling layers used in the architecture to help make predictions.
 
