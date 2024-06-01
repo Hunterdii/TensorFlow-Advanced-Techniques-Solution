@@ -1,3 +1,5 @@
+# Visualization and Interpretation
+
 1. Consider the following code for Class Activation Maps. Which layer(s) of the model do we choose as outputs to draw out the class activation map ? Check all that apply.
 
    - The layer which feeds input to the model
