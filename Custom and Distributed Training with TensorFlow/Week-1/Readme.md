@@ -12,11 +12,10 @@
    </p>
 Which of the following lines of code should you use? Check all that are true.
 
-   
-* tf.constant([-1, -1, -1, -1, -1, -1], shape=[2, 3])
-* ***tf.Variable([[-1, -1, -1], [-1, -1, -1]], tf.int32)(Answer)***
-* ***tf.Variable([[-1, -1, -1], [-1, -1, -1]], shape=[2, 3])(Answer)***
-* tf.Variable([-1, -1, -1, -1, -1, -1], tf.int32, shape=[2,3])
+- tf.constant([-1, -1, -1, -1, -1, -1], shape=[2, 3])
+- **_tf.Variable([[-1, -1, -1], [-1, -1, -1]], tf.int32)(Answer)_**
+- **_tf.Variable([[-1, -1, -1], [-1, -1, -1]], shape=[2, 3])(Answer)_**
+- tf.Variable([-1, -1, -1, -1, -1, -1], tf.int32, shape=[2,3])
 
 5. One type of mode in TensorFlow allows for immediate evaluation of values. What is this mode called?
    - Graph Mode
@@ -31,7 +30,8 @@ print(d)
 ```
 
 5. The output of the code could be: tf.Tensor(x, shape=(), dtype=int32):What is the value of “x” in this case ? Enter in the box below. Enter “0”
-   if you think the code above will run into some kind of error. \* **_155(Answer)_**
+   if you think the code above will run into some kind of error. \*
+   **_155(Answer)_**
 6. What is the name of the TensorFlow API which handles automatic differentiation?
    - Gradient
    - **_GradientTape(Answer)_**
