@@ -3,6 +3,8 @@
 <p align="left">
 <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" alt="https://jupyter.org/try" width="225" />
 <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="https://www.python.org/" width="175" />
+
+# ⭐ Star this repository if you find it helpful or intriguing! ⭐
  </p>
 
 [**Course Link**](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
