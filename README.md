@@ -1,10 +1,11 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000000000000000000&color=F7377F&random=false&width=435&lines=TensorFlow-Advanced-Techniques-Specialization)](https://git.io/typing-svg) 
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1&pause=1000000000000000000&color=F7377F&random=false&width=435&lines=TensorFlow-Advanced-Techniques-Specialization" alt="https://git.io/typing-svg">
+</p>
 
 <p align="left">
 <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" alt="https://jupyter.org/try" width="225" />
 <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" alt="https://www.python.org/" width="175" />
 
-# ⭐ Star this repository if you find it helpful or intriguing! ⭐
+## ⭐ Star this repository if you find it helpful or intriguing! ⭐
  </p>
 
 [**Course Link**](https://www.coursera.org/specializations/tensorflow-advanced-techniques)
